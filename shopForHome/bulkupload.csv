@@ -1,0 +1,4 @@
+ProductId,ProductName,Price,Stock,Description,ProductIcon,CategoryType
+FD0123,Cushion,100,25,fuluffy cushions,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd7PJwQPij6-lqFKfvcQRygp_cQS9pV7EiZrfQ6ZW&s,1
+FD0234,ceiling fan,500,21,air in every corner,https://5.imimg.com/data5/XO/RF/XV/SELLER-13274204/ceiling-fan-24-inch-500x500.jpg,0
+FD01234,matresses,1500,10,get a comfort sleep ,https://image.shutterstock.com/image-illustration/mattresses-stacked-isolated-on-white-260nw-1486986278.jpg,1
